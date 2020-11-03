@@ -9,7 +9,7 @@
 - 🚶Always on the way
 - 📊An entrepreneur 
 - 🎸An electric guitarist
-- :shipit:A big fan of Sherlock Holmes 
+- :shipit:A big fan of Sherlock Holmes :detective:
 - 🤔A conservative innovator + A sensible rationalist + A realistic idealist + A pessimistic optimist 
 - -----------------------------------------------------------------------------------------------------
 **I believe in:**
