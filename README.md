@@ -7,14 +7,14 @@
 **I am:**
 
 - 🚶Always on the way
-- 🎸An electric guitarist
 - 📊An entrepreneur 
+- 🎸An electric guitarist
 - :shipit:A big fan of Sherlock Holmes 
 - 🤔A conservative innovator + A sensible rationalist + A realistic idealist + A pessimistic optimist 
 - -----------------------------------------------------------------------------------------------------
-**I believe:**
+**I believe in:**
 
 - 📈Growth 1.01 ^ 365 = 37.8 
-- 📚Knowledge
+- 📚knowledge in the service of society
 - 🌐Globalization
 - -----------------------------------------------------------------------------------------------------
