@@ -16,5 +16,5 @@
 
 - 📈Growth 1.01 ^ 365 = 37.8 
 - 📚knowledge in the service of society
-- 🌐Globalization
+- :earth_asia:Globalization
 - -----------------------------------------------------------------------------------------------------
