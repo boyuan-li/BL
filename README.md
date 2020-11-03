@@ -8,7 +8,7 @@
 
 - :cn:
 - 🚶Always on the way
-- :chart_with_upwards_trend:An entrepreneur 
+- :technologist:An entrepreneur 
 - 🎸An electric guitarist
 - :shipit:A big fan of Sherlock Holmes
 - 🤔A conservative innovator + A sensible rationalist + A realistic idealist + A pessimistic optimist 
