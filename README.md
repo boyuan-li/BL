@@ -7,16 +7,16 @@
 **I am:**
 
 - :cn:
-- 🚶Always on the way
-- :technologist:An entrepreneur 
-- 🎸An electric guitarist
-- :shipit:A big fan of Sherlock Holmes
-- 🤔A conservative innovator + A sensible rationalist + A realistic idealist + A pessimistic optimist 
+- 🚶 Always on the way
+- :technologist: An entrepreneur 
+- 🎸 An electric guitarist
+- :shipit: A big fan of Sherlock Holmes
+- 🤔 A conservative innovator + A sensible rationalist + A realistic idealist + A pessimistic optimist 
 - -----------------------------------------------------------------------------------------------------
 **I believe in:**
 
-- 📈Growth 1.01 ^ 365 = 37.8 
-- :bar_chart:Data
-- 📚knowledge in the service of society
-- :earth_asia:Globalization
+- 📈 Growth 1.01 ^ 365 = 37.8 
+- :bar_chart: Data
+- 📚 knowledge in the service of society
+- :earth_asia: Globalization
 - -----------------------------------------------------------------------------------------------------
