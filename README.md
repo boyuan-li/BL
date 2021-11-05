@@ -20,3 +20,5 @@
 - 📚 knowledge in the service of society
 - :earth_asia: Globalization
 - -----------------------------------------------------------------------------------------------------
+
+<img align = "left" alt = "Github Stats" src = "https://github-readme-stats.vercel.app/api?username=boyuan-li&show_icons=true&hide_border=true"/>
