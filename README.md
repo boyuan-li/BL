@@ -18,7 +18,6 @@
 - 📈 Growth 1.01 ^ 365 = 37.8 
 - :bar_chart: Data
 - 📚 knowledge in the service of society
-- :earth_asia: Globalization
 - -----------------------------------------------------------------------------------------------------
 
 <img align = "left" alt = "Github Stats" src = "https://github-readme-stats.vercel.app/api?username=boyuan-li&show_icons=true&hide_border=true?count_private=true&theme=dark"/>
