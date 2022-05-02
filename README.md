@@ -19,5 +19,7 @@
 - :bar_chart: Data
 - 📚 knowledge in the service of society
 - -----------------------------------------------------------------------------------------------------
+大江歌罢掉头东，邃密群科济世穷。面壁十年图破壁，难酬蹈海亦英雄。- 周恩来《大江歌罢掉头东》
+- -----------------------------------------------------------------------------------------------------
 
 <img align = "left" alt = "Github Stats" src = "https://github-readme-stats.vercel.app/api?username=boyuan-li&show_icons=true&hide_border=true?count_private=true&theme=dark"/>
