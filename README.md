@@ -9,8 +9,8 @@
 - :cn:
 - 🚶 Always on the way
 - :technologist: An entrepreneur 
-- 🎸 An electric guitarist
-- 🚴A cyclist
+- 🎸 A guitarist
+- 🚴 A cyclist
 - :shipit: A big fan of Sherlock Holmes
 - 🤔 A conservative innovator + A sensible rationalist + A realistic idealist + A pessimistic optimist 
 - -----------------------------------------------------------------------------------------------------
