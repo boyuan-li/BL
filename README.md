@@ -8,7 +8,7 @@
 
 - :cn:
 - 🚶 Always on the way
-- :technologist: An entrepreneur 
+- 👨🏻‍💻 An entrepreneur 
 - 🎸 A guitarist
 - 🚴 A cyclist
 - :shipit: A big fan of Sherlock Holmes
